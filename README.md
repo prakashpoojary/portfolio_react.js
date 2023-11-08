@@ -42,3 +42,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ## Screenshots
 
 ![Screenshot 1](https://raw.githubusercontent.com/prakashpoojary/portfolio_react.js/main/images/Screenshot123.png)
+
+## Deployed using Netlify
+[Click here ](https://myyportfolioreactjs.netlify.app/) to see the web page of my portfolio
