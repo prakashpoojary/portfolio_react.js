@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screenshots
+
+![Screenshot 1](https://raw.githubusercontent.com/prakashpoojary/portfolio_react.js/main/images/Screenshot123.png)
+
+## Deployed using Netlify
+[Click here ](https://myyportfolioreactjs.netlify.app/) to see the web page of my portfolio
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -39,9 +46,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Screenshots
-
-![Screenshot 1](https://raw.githubusercontent.com/prakashpoojary/portfolio_react.js/main/images/Screenshot123.png)
-
-## Deployed using Netlify
-[Click here ](https://myyportfolioreactjs.netlify.app/) to see the web page of my portfolio
