@@ -41,4 +41,4 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Screenshots
 
-![Screenshot 1](https://raw.githubusercontent.com/prakashpoojary/portfolio_react.js/main/images/Screenshot_20231005-012539.jpg)
+![Screenshot 1](https://raw.githubusercontent.com/prakashpoojary/portfolio_react.js/main/images/Annotation 2023-11-08 185437.png)
